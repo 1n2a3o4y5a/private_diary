@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed5486b2-7ed1-4a5e-99f2-e015d13c6f8a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b5KNF0mtOI6nUdx8S4SHrgwNnf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/manage.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="runserver" type="PythonConfigurationType" factoryName="Python">
+      <module name="private_diary" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DB_USER" value="postgres" />
+        <env name="DB_PASSWORD" value="papipurio3329" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\tyu_k\venv_private_diary\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed5486b2-7ed1-4a5e-99f2-e015d13c6f8a" name="Default Changelist" comment="" />
+      <created>1587916473066</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587916473066</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="72" y="47" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588001897609">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="72" y="47" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1234.783@0.0.1234.783" timestamp="1588001897609" />
+    <state x="352" y="154" key="EnvironmentVariablesDialog" timestamp="1588001453096">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="352" y="154" key="EnvironmentVariablesDialog/0.0.1234.783@0.0.1234.783" timestamp="1588001453096" />
+    <state x="398" y="147" key="FileChooserDialogImpl" timestamp="1588001377119">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="398" y="147" key="FileChooserDialogImpl/0.0.1234.783@0.0.1234.783" timestamp="1588001377119" />
+    <state width="1213" height="197" key="GridCell.Tab.0.bottom" timestamp="1588002646002">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state width="1213" height="197" key="GridCell.Tab.0.bottom/0.0.1234.783@0.0.1234.783" timestamp="1588002646002" />
+    <state width="1213" height="197" key="GridCell.Tab.0.center" timestamp="1588002646002">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state width="1213" height="197" key="GridCell.Tab.0.center/0.0.1234.783@0.0.1234.783" timestamp="1588002646002" />
+    <state width="1213" height="197" key="GridCell.Tab.0.left" timestamp="1588002646002">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state width="1213" height="197" key="GridCell.Tab.0.left/0.0.1234.783@0.0.1234.783" timestamp="1588002646002" />
+    <state width="1213" height="197" key="GridCell.Tab.0.right" timestamp="1588002646002">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state width="1213" height="197" key="GridCell.Tab.0.right/0.0.1234.783@0.0.1234.783" timestamp="1588002646002" />
+    <state x="126" y="34" key="SettingsEditor" timestamp="1587917078594">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="126" y="34" key="SettingsEditor/0.0.1234.783@0.0.1234.783" timestamp="1587917078594" />
+    <state x="313" y="216" key="com.intellij.ide.util.TipDialog" timestamp="1587998461456">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="313" y="216" key="com.intellij.ide.util.TipDialog/0.0.1234.783@0.0.1234.783" timestamp="1587998461456" />
+  </component>
+</project>
